@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET Core
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on projects in .NET Core
-- 📫 How to reach me: desenv5.digibyte@outlook.com
+- 📫 How to reach me: mateus.kern@digibyte.com.br
 
 <!---
 Desenv5DigiByte/Desenv5DigiByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
