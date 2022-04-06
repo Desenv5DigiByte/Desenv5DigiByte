@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Desenv5DigiByte
+- 👋 Hi, I’m @MateusKernDigibyte
 - 👀 I’m interested in .NET Core
 - 🌱 I’m currently learning Angular
+- 🏬 I work as a developer at <a href="https://www.digibyte.com.br/">Digibyte Contabilidade</a>
 - 💞️ I’m looking to collaborate on projects in .NET Core
 - 📫 How to reach me: mateus.kern@digibyte.com.br
-
-<!---
-Desenv5DigiByte/Desenv5DigiByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
